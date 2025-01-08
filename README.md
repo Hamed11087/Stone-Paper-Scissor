@@ -36,5 +36,6 @@ This project helps you explore and implement various C++ programming concepts:
 ✅ Random Number Generation: Adding unpredictability to gameplay.
 ✅ Control Structures: Utilizing loops and conditionals for decision-making.
 ✅ Console Formatting: Using colors and formatted output to enhance interactivity.
+
 #🏁 Ready to Play?
 Clone this repository, compile the code, and start challenging the computer!🚀
