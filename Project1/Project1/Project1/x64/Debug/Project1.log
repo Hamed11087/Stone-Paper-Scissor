@@ -1,0 +1,9 @@
+﻿  Project1.cpp
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(14,17): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(42,9): warning C4101: 'Player': unreferenced local variable
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(41,20): warning C4101: 'CoputerWon': unreferenced local variable
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(41,9): warning C4101: 'Computer': unreferenced local variable
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(43,23): warning C4101: 'DrawTimes': unreferenced local variable
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(43,9): warning C4101: 'Final_Winner': unreferenced local variable
+C:\C++\Level 2 - 05\Project1\Project1\Project1.cpp(42,18): warning C4101: 'PlayerWon': unreferenced local variable
+  Project1.vcxproj -> C:\C++\Level 2 - 05\Project1\Project1\x64\Debug\Project1.exe
